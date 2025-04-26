@@ -1,8 +1,6 @@
 # Node.js dependencies
 node_modules/
 
-# Uploads folder
-public/uploads/
 
 # Environment variables
 .env
